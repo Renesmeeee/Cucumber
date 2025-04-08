@@ -1,0 +1,3 @@
+"""
+Environmental condition handling module
+""" 

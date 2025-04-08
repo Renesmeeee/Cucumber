@@ -1,0 +1,100 @@
+{
+  "Simulation Summary": {
+    "Start Date": "2021-02-23",
+    "End Date": "2021-09-13",
+    "Total Days": 203,
+    "Time Unit": "hour",
+    "Total Gross CH2O Production (g/m^2)": 3834.02,
+    "Average Daily Gross CH2O Production (g/m^2/day)": 18.89,
+    "Maximum Daily Gross CH2O Production (g/m^2/day)": 29.19,
+    "Total Vegetative DW Production (g/m^2)": 1104.73,
+    "Total Fruit DW Production (g/m^2)": 817.91,
+    "Total Fruit DW Harvested (g/m^2)": 0.0,
+    "Total Leaf Area Removed (m^2/m^2?)": 14.009,
+    "Total Leaves Generated": 157,
+    "Leaves Removed": 28,
+    "Remaining Leaves (approx)": 16
+  },
+  "Daily Statistics": {
+    "A_grossCH2O_PRODUCTION (g/m^2/day)": {
+      "count": 203.0,
+      "mean": 18.887,
+      "std": 6.786,
+      "min": 0.247,
+      "25%": 15.794,
+      "50%": 20.13,
+      "75%": 23.775,
+      "max": 29.189
+    },
+    "Estimated Vegetative DW Production (g/m^2/d)": {
+      "count": 203.0,
+      "mean": 5.442,
+      "std": 2.337,
+      "min": 0.147,
+      "25%": 4.279,
+      "50%": 5.679,
+      "75%": 6.88,
+      "max": 13.804
+    },
+    "Estimated Fruit DW Production (g/m^2/d)": {
+      "count": 203.0,
+      "mean": 4.029,
+      "std": 2.247,
+      "min": 0.0,
+      "25%": 2.305,
+      "50%": 4.625,
+      "75%": 5.872,
+      "max": 7.743
+    },
+    "Harvested Fruit DW (g/m^2)": {
+      "count": 203.0,
+      "mean": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "25%": 0.0,
+      "50%": 0.0,
+      "75%": 0.0,
+      "max": 0.0
+    },
+    "Removed_Leaf_Area": {
+      "count": 203.0,
+      "mean": 0.069,
+      "std": 0.173,
+      "min": 0.0,
+      "25%": 0.0,
+      "50%": 0.0,
+      "75%": 0.0,
+      "max": 0.596
+    },
+    "Total_Fruit_DW (g/m^2)": {
+      "count": 203.0,
+      "mean": 12.773,
+      "std": 7.506,
+      "min": 0.0,
+      "25%": 8.593,
+      "50%": 13.585,
+      "75%": 17.084,
+      "max": 34.075
+    },
+    "Active_Fruit_Count": {
+      "count": 203.0,
+      "mean": 5.448,
+      "std": 2.76,
+      "min": 0.0,
+      "25%": 5.0,
+      "50%": 6.0,
+      "75%": 7.0,
+      "max": 10.0
+    },
+    "SO_SI_Ratio": {
+      "count": 203.0,
+      "mean": 0.317,
+      "std": 0.2,
+      "min": 0.01,
+      "25%": 0.173,
+      "50%": 0.251,
+      "75%": 0.446,
+      "max": 0.914
+    }
+  }
+}
